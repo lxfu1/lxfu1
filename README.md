@@ -5,5 +5,5 @@ Here are some ideas to get you started:
 
 -->
 
-I’m currently working on Alipay, Building AI-native systems for visualization, evaluation, and autonomous workflows.
-Focused on agents, chart generation, skill architectures, and scalable engineering.
+> AI × Visualization × Agents.
+> Building self-improving workflows.
